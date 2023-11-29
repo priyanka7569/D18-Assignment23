@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment-23\Assignment-23\bin\Debug\Assignment-23.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment-23\Assignment-23\bin\Debug\Assignment-23.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment-23\Assignment-23\bin\Debug\Assignment-23.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment-23\Assignment-23\obj\Debug\Assignment-23.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment-23\Assignment-23\obj\Debug\Assignment-23.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment-23\Assignment-23\obj\Debug\Assignment-23.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment-23\Assignment-23\obj\Debug\Assignment-23.pdb
